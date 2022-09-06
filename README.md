@@ -13,3 +13,8 @@ Projeto de uma base de dados de uma oficina.
 * Cada OS possui: n°, data de emissão, valor, status e uma data para conclusão dos trabalhos.
 * Uma OS pode ser composta por vários serviços e um mesmo serviço pode estar contido em mais de uma OS.
 * Uma OS pode ter vários tipos de peça e uma peça pode estar presente em mais de uma OS.
+
+## Resultado 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102488476/188620928-2656e47e-3bba-4a5a-bf43-3995cb42a169.png">
+</div>
